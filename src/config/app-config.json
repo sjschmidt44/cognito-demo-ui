@@ -1,15 +1,15 @@
 {
-    "region": "eu-west-2",
-    "userPool": "eu-west-2_z1Go5XdrZ",
-    "userPoolBaseUri": "https://auth-cognito-demo.arronharden.com",
-    "clientId": "4tnp4k64d5v4ah9dud3pj1kbs0",
-    "callbackUri": "https://cognito-demo.arronharden.com/callback",
-    "signoutUri": "https://cognito-demo.arronharden.com",
+    "region": "us-west-2",
+    "userPool": "us-west-2_ingNti9yZ",
+    "userPoolBaseUri": "https://parity-auth.1strategy-sandbox.com",
+    "clientId": "6vrmdb131nsipctb3hl73hv72l",
+    "callbackUri": "https://parity-demo.1strategy-sandbox.com/callback",
+    "signoutUri": "https://parity-demo.1strategy-sandbox.com",
     "tokenScopes": [
         "openid",
         "email",
         "profile",
-        "https://cognito-demo-api.arronharden.com/hello-world.all"                
+        "https://parity-demo-api.1strategy-sandbox.com/hello-world.all"
     ],
-    "apiUri": "https://cognito-demo-api.arronharden.com"
+    "apiUri": "https://parity-demo-api.1strategy-sandbox.com"
 }
